@@ -4,14 +4,14 @@
 // Interests
 ["🎸", "🌿", "🌎", "🔭", "🎮"]
 
-// Langs that I ❤️
+// Languages that I ❤️
 ["Swift", "Kotlin", "Ruby", "Javascript"]
     + ["Java"] // Not everyday, but sometimes it saves me
 
-// Langs that I'm learning
+// Languages that I'm learning
 ["Python", "Dart", "Go"]
 
-// Some subjects that 
+// Some subjects that i am really enthusiastic
 ["Software Engineering", "Clean Code", "Design System"]
 ```
 
