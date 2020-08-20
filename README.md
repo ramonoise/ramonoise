@@ -11,7 +11,7 @@
 // Languages that I'm learning
 ["Python", "Dart", "Go"]
 
-// Some subjects that i am really enthusiastic
+// Some subjects that I'm really enthusiastic
 ["Software Engineering", "Clean Code", "Design System"]
 ```
 
