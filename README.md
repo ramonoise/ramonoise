@@ -1,16 +1,21 @@
-### Hi there 👋
+# hello, world! 
 
-<!--
-**ramonilho/ramonilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```swift
+// Interests
+["🎸", "🌿", "🌎", "🔭", "🎮"]
 
-Here are some ideas to get you started:
+// Langs that I ❤️
+["Swift", "Kotlin", "Ruby", "Javascript"]
+    + ["Java"] // Not everyday, but sometimes it saves me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// Langs that I'm learning
+["Python", "Dart", "Go"]
+
+// Some subjects that 
+["Software Engineering", "Clean Code", "Design System"]
+```
+
+---
+### GET IN TOUCH 🤙🏽
+[![Linkedin: ramon-honorio](https://img.shields.io/badge/-Ramon%20Honorio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonhonorio/)](https://www.linkedin.com/in/ramonhonorio/)
+![GitHub followers](https://img.shields.io/github/followers/ramonilho?style=flatlabel=Follow&style=for-the-badge&logo=Github&logoColor=white)
