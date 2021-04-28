@@ -6,13 +6,13 @@
 
 // Languages that I ❤️
 ["Swift", "Kotlin", "Ruby", "Javascript"]
-    + ["Java"] // Not everyday, but it saves me sometimes
+    + ["Java"] // Not always, but it saves me eventually
 
 // Languages that I'm learning
-["Python", "Dart", "Go"]
+["Python", "Go"]
 
 // Subjects that I'm really enthusiastic
-["Software Engineering", "Clean Code", "Design System"]
+["Software Engineering", "Clean Code", "Design System", "SwiftUI"]
 ```
 
 #### GET IN TOUCH 🤙🏽
