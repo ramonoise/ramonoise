@@ -6,7 +6,7 @@
 
 // Languages that I ❤️
 ["Swift", "Kotlin", "Ruby", "Javascript"]
-    + ["Java"] // Not everyday, but sometimes it saves me
+    + ["Java"] // Not everyday, but it saves me sometimes
 
 // Languages that I'm learning
 ["Python", "Dart", "Go"]
