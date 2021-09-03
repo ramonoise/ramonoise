@@ -2,14 +2,14 @@
 
 ```swift
 // Interests
-["🎸", "🌿", "🌎", "🔭", "🎮"]
+["🎸", "🌳", "🌎", "🔭", "📙", "🎮"]
 
 // Languages that I ❤️
-["Swift", "Kotlin", "Ruby", "Javascript"]
+["Swift", "Kotlin", "Ruby"]
     + ["Java"] // Not always, but it saves me eventually
 
 // Languages that I'm learning
-["Python", "Go"]
+["Dart,", "Clojure", "Python", "Go"]
 
 // Subjects that I'm really enthusiastic
 ["Software Engineering", "Clean Code", "Design System", "SwiftUI"]
