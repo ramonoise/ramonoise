@@ -9,7 +9,7 @@
     + ["Java"] // Not always, but it saves me eventually
 
 // Languages that I'm learning
-["Dart,", "Clojure", "Python", "Go"]
+["Dart", "Clojure", "Python", "Go"]
 
 // Subjects that I'm really enthusiastic
 ["Software Engineering", "Clean Code", "Design System", "SwiftUI"]
