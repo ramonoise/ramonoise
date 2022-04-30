@@ -5,7 +5,7 @@
   ["🎸" "🌳" "🌎" "🔭" "📙" "🎮"])
 
 (def most-skilled-languages
-  ["Swift" "Kotlin" "Java" "Ruby" "Python"])
+  ["Swift" "Java" "Kotlin" "Ruby" "Python"])
 
 (def learning-languages
   ["Clojure" "Dart" "Go"])
