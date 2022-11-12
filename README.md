@@ -11,7 +11,7 @@
   ["Clojure" "Dart" "Go"])
 
 (def subjects-that-i-love-talking-about
-  ["System Design" "Clean Code" "Design System" "Server Driven UI" "Componentization"])
+  ["System Design" "Clean Code" "Design System" "Server Driven UI" "Design Patterns"])
 
 (println "get in touch ⬇️")
 ```
