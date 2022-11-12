@@ -5,10 +5,10 @@
   ["🎸" "🌳" "🌎" "🔭" "📙" "🎮"])
 
 (def most-skilled-languages
-  ["Swift" "Java" "Kotlin" "Ruby" "Python"])
+  ["Swift" "Java" "Kotlin" "Python"])
 
 (def learning-languages
-  ["Clojure" "Dart" "Go"])
+  ["Clojure" "Dart"])
 
 (def subjects-that-i-love-talking-about
   ["System Design" "Clean Code" "Design System" "Server Driven UI" "Design Patterns"])
