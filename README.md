@@ -4,14 +4,14 @@
 (def interests
   ["🎸" "🌳" "🌎" "🔭" "📙" "🎮"])
 
-(def most-skilled-languages
-  ["Swift" "Java" "Kotlin" "Python" "JavaScript"])
+(def expert-languages
+  ["Swift" "Objective-C"])
 
-(def learning-languages
-  ["Clojure" "Dart"])
+(def proficient-languages
+  ["Clojure" "Kotlin" "Python" "JavaScript" "Dart"])
 
 (def subjects-that-i-love-talking-about
-  ["System Design" "Clean Code" "Design System" "Server Driven UI" "Design Patterns"])
+  ["Architecture" "Design System" "Server Driven UI" "Design Patterns"])
 
 (println "get in touch ⬇️")
 ```
