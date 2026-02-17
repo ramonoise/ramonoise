@@ -5,13 +5,13 @@
   ["🎸" "🌳" "🌎" "🔭" "📙" "🎮"])
 
 (def expert-languages
-  ["Swift" "Objective-C"])
+  ["Swift" "Kotlin"])
 
 (def proficient-languages
-  ["Clojure" "Kotlin" "Python" "JavaScript" "Dart"])
+  ["Clojure" "Java" "Python" "JavaScript" "Dart" "Objective-C"])
 
 (def subjects-that-i-love-talking-about
-  ["Architecture" "Design System" "Server Driven UI" "Design Patterns"])
+  ["Software Architecture" "Design System" "Server Driven UI" "Design Patterns" "Trade-offs"])
 
 (println "get in touch ⬇️")
 ```
@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 
-<a href="https://www.instagram.com/ramonoise/" alt="Instagram">
+<a href="https://www.instagram.com/nullpointerinception/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
